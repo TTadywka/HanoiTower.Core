@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ur88lL0FP3fTwYR4sApJrEhN5c/r2aba0Z+DO/5zY1fhTynoh9urTH/ixnNy8HEqPSYlpUSb7Ye5eKWmjkXbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User 1\\Desktop\\Ханойские башни — копия\\Hanoi Towers\\Hanoi Towers.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User 1\\.nuget\\packages\\fluentwpf\\0.10.2\\fluentwpf.0.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}
